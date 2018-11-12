@@ -1,3 +1,5 @@
+# COMPUTER VISION and it's applications
+
 
 Humans use their eyes and their brains to see and visually sense the world around them. Computer vision is the science that aims to give a similar, if not better, capability to a machine or computer.
 
